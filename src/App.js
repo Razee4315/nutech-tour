@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Welcome from './components/Welcome';
 import TourView from './components/TourView';
+import { GlobalStyle } from './globalStyles';
 import './App.css';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
 
   return (
     <div className="App">
+      <GlobalStyle />
       {!showTour ? (
         <Welcome onStart={handleStart} />
       ) : (

@@ -102,9 +102,9 @@ const Welcome = ({ onStart }) => {
         <BackgroundImage />
         <Overlay />
         <Content>
-          <Title>Welcome to NUTECH Tour</Title>
-          <Subtitle>Experience our campus in stunning 360° views</Subtitle>
-          <StartButton onClick={onStart}>Start Tour</StartButton>
+          <Title>NUTECH Job Fair 2025</Title>
+          <Subtitle>Connecting Talent with Opportunity</Subtitle>
+          <StartButton onClick={onStart}>Start Virtual Tour</StartButton>
         </Content>
         
       </Wrapper>

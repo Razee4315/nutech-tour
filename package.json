@@ -2,7 +2,7 @@
   "name": "nutech-tour",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Razee4315.github.io/nutech-tour",
+  "homepage": "https://Razee4315.github.io/Job-Fair-Virtual-Tour",
   "dependencies": {
     "cra-template": "1.2.0",
     "pannellum-react": "^1.2.4",
