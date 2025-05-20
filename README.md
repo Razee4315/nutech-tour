@@ -101,8 +101,6 @@ Our Team members:
 - Saqlain Abbas (saqlainrazee@gmail.com)
 - Aleena Tahir (aleenatahirf23@nutech.edu.pk)
 - Aena Habib (aenahabibf23@nutech.edu.pk)
-- Sadia Mazhar (saidamazharf23@nutech.edu.pk)
-- Malaika Akhtar (malaikaakhtarf23@nutech.edu.pk)
-  
+- 
 
 Project Link: [https://razee4315.github.io/nutech-tour/](https://razee4315.github.io/nutech-tour/)
