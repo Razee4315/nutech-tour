@@ -7,7 +7,7 @@
     "cra-template": "1.2.0",
     "pannellum-react": "^1.2.4",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.14",
     "web-vitals": "^4.2.4"
