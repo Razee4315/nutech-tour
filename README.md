@@ -28,9 +28,10 @@ cd nutech-tour
 
 2. Install dependencies
 ```bash
-npm install --legacy-peer-deps
-
+npm install
 ```
+
+**Note**: Dependency conflicts have been resolved! The `--legacy-peer-deps` flag is no longer required.
 
 ## Running the Project
 
@@ -83,11 +84,24 @@ Hotspots are interactive points on a 360° panoramic image that users can click 
 - `src/styles/`: Additional styling (if needed)
 
 
+## Recent Updates
+
+### Dependency Conflicts Resolved ✅
+- **React 19 Compatibility**: Updated all dependencies to support React 19
+- **No More Legacy Peer Deps**: Removed the need for `--legacy-peer-deps` flag
+- **Updated Dependencies**:
+  - `@testing-library/react` → v15.0.0 (React 19 compatible)
+  - `@types/react` → v19.0.0
+  - `@types/react-dom` → v19.0.0
+  - `react-i18next` → v15.0.0
+  - `typescript` → v4.9.5 (compatible with react-scripts)
+
 ## Troubleshooting
 
 - Ensure all images are in the correct format (jpg/png)
 - Check browser console for any errors
 - Verify Node.js and npm versions
+- If you encounter dependency issues, try deleting `node_modules` and `package-lock.json`, then run `npm install`
 
 ## Technologies Used
 
