@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a React-based 360° Virtual Tour application that allows users to explore different locations through interactive panoramic images with customizable hotspots.
+This is a React-based 360° Virtual Tour application that allows users to explore different locations through interactive panoramic images with customizable hotspots .
 
 ## Features
 
