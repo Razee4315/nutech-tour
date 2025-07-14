@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/nutech-tour/static/css/main.7f0dbbf6.css",
+    "main.js": "/nutech-tour/static/js/main.e953c082.js",
+    "static/media/sprites.svg": "/nutech-tour/static/media/sprites.c08944fed399e84633d0.svg",
+    "index.html": "/nutech-tour/index.html",
+    "static/media/grabbing.svg": "/nutech-tour/static/media/grabbing.92ec62eb995e79248066.svg",
+    "static/media/grab.svg": "/nutech-tour/static/media/grab.6a052e927d39314632fd.svg",
+    "static/media/background.svg": "/nutech-tour/static/media/background.73c746e88409ccb4b512.svg",
+    "static/media/compass.svg": "/nutech-tour/static/media/compass.0f193cd39061ea43cc46.svg",
+    "main.7f0dbbf6.css.map": "/nutech-tour/static/css/main.7f0dbbf6.css.map",
+    "main.e953c082.js.map": "/nutech-tour/static/js/main.e953c082.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f0dbbf6.css",
+    "static/js/main.e953c082.js"
+  ]
+}
